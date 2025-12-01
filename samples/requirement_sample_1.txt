@@ -1,0 +1,13 @@
+Feature: Customer Profile Update
+
+The system should allow a logged-in user to update their profile information including name, email, phone number and address.
+
+Business Rules:
+- Email must be unique across all users.
+- Phone number should be validated with country code.
+- Changes should be saved only after user clicks the Save button.
+- The system must show a confirmation message after successful update.
+
+Non-functional:
+- The profile page should load within 3 seconds.
+- The system should handle up to 1000 concurrent users updating profiles.
