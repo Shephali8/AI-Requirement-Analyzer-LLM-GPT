@@ -45,7 +45,6 @@ This project uses an LLM + prompt engineering workflow to:
 
 ## 📂 Suggested File Structure
 
-```text
 AI-Requirement-Analyzer-LLM-GPT/
 ├─ README.md
 ├─ samples/
