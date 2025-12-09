@@ -56,3 +56,11 @@ AI-Requirement-Analyzer-LLM-GPT/
 └─ outputs/
    ├─ user_stories_example.md
    ├─ acceptance_criteria_example.md
+
+---
+
+## 📈 Business Impact
+
+- Reduces manual effort in requirement analysis by converting raw text into structured backlog items  
+- Improves consistency of user stories and acceptance criteria  
+- Helps BA and product teams prepare sprint-ready requirements faster
